@@ -14,4 +14,4 @@ RUN npm install --global gulp && \
     npm install --global ts-node && \
     npm install --global typescript && \
     npm install --global istanbul &&\
-    npm install --global @looped-lines/builder
+    npm install --global @looped-lines/builderjs@alpha
